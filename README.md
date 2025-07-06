@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Jasmine 👋</h2>
+<h2>👋 Hi there, I'm Jasmine</h2>
 
 <p>I'm currently a BS/MS student at the <strong>University of Washington</strong> studying Computer Science with a double degree in English Literature. Currently, I'm focused on CS education projects and developing tools to streamline grading workflows for the courses I TA.
 
